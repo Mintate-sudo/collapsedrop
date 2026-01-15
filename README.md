@@ -1,4 +1,4 @@
-# CollapseDrop v1.0.0 - README
+# CollapseDrop v1.1.0 - README
 
 **BYOLLM** - Bring Your Own LLM context injection for static sites
 
@@ -425,3 +425,4 @@ Or link to [collapseindex.org](https://collapseindex.org) 💙
   <b>Built by <a href="https://collapseindex.org">Collapse Index Labs - Alex Kwon</a></b><br>
   <sub>One person. 8GB Ideapad 3. Making AI interactions better.</sub>
 </p>
+
