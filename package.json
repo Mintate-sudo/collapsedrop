@@ -12,8 +12,8 @@
   ],
   "scripts": {
     "build": "npm run build:js && npm run build:css",
-    "build:js": "esbuild src/collapsedrop.js --bundle --minify --outfile=dist/collapsedrop.min.js && cp src/collapsedrop.js dist/collapsedrop.js",
-    "build:css": "cp src/collapsedrop.css dist/collapsedrop.css",
+    "build:js": "esbuild src/collapsedrop.js --bundle --minify --outfile=dist/collapsedrop.min.js && node -e \"require('fs').copyFileSync('src/collapsedrop.js','dist/collapsedrop.js')\"",
+    "build:css": "node -e \"require('fs').copyFileSync('src/collapsedrop.css','dist/collapsedrop.css')\"",
     "dev": "live-server examples --port=3000",
     "prepublishOnly": "npm run build"
   },
